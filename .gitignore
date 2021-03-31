@@ -1,0 +1,5 @@
+E2ETests/node_modules
+E2ETests/selenium-server.log
+E2ETests/output/logs
+E2ETests/output/reports
+E2ETests/output/screenshots

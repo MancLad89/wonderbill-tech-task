@@ -1,0 +1,16 @@
+{
+	"name": "wonderBill-tech-task",
+	"version": "0.0.1",
+	"description": "Nightwatch.js tests at WonderBill",
+	"dependencies": {
+		"chromedriver": "^89.0.0",
+		"geckodriver": "^1.22.2",
+		"nightwatch": "^1.6.0",
+		"selenium-server": "^3.141.59"
+	},
+	"scripts": {
+		"test": "nightwatch",
+		"test-chrome": "nightwatch -e chrome",
+		"test-firefox": "nightwatch -e firefox"
+	}
+}
