@@ -7,12 +7,12 @@ An example of what is capable with Nightwatch.js
 npm install
 ```
 
-##### 2. To run the tests all tests on the default browser (Chrome)
+##### 2. To run the tests all tests on the default browser (Chrome, ensure latest version is installed)
 ```
 npm test 
 ```
 
-##### 3. To run the tests on a specific browser (Chrome/Firefox)
+##### 3. To run the tests on a specific browser (Chrome/Firefox, ensure latest version is installed)
 ```
 test-chrome
 test-firefox 
